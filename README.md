@@ -1,1 +1,3 @@
 # auto-changelog
+
+"Hello odinen!"
